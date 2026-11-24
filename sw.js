@@ -1,7 +1,7 @@
 // 삼국지택틱스 - 오프라인 보관 (tools/build.py 가 만들어요. 직접 고치지 마세요)
 // 게임 파일을 휴대폰에 보관해 두고, 인터넷이 없어도 홈 화면 아이콘으로 실행되게 해요.
 // 새 완성본을 올리면 이 파일의 VERSION 이 바뀌고, 다음에 열 때 새 파일로 바뀌어요.
-const VERSION = '15b8e2d8f32fe6b0';
+const VERSION = 'ba2209b59c999f27';
 const PREFIX = 'samguk-tactics:' + self.registration.scope + ':';
 const CACHE = PREFIX + VERSION;
 const PAGE = 'index.html';
